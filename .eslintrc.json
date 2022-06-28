@@ -15,6 +15,7 @@
       "plugins": ["my-awesome-plugin"],
       "rules": {
         "my-awesome-plugin/my-awesome-rule": "error",
+        "my-awesome-plugin/no-testing": "error",
         "@angular-eslint/directive-selector": [
           "error",
           {
