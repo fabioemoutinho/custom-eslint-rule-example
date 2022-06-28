@@ -16,6 +16,7 @@
       "rules": {
         "my-awesome-plugin/my-awesome-rule": "error",
         "my-awesome-plugin/no-testing": "error",
+        "my-awesome-plugin/host-listener-click-events-have-key-events": "error",
         "@angular-eslint/directive-selector": [
           "error",
           {
